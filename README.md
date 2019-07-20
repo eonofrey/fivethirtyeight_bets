@@ -22,4 +22,13 @@ On Nate Silver's website, fivethirtyeight.com, they post every MLB game of the s
 
 If you convert the money lines on ESPN to probabilites of winning, you have a direct comparison to fivethirtyeight's probabilities of winning the game. If the people of fivethirtyeight are smarter than the bookies, then a betting strategy would be to compare the fivethirtyeight probabilites vs. the implied gambiling probabilities and bet on th games where there is the largest discrepency. 
 
+This script does the following: 
+1. Scrape the games with probabilites on fivethirtyeight
+2. Scrape the games with moeny lines on ESPN
+3. Convert the money lines to implied probabilities
+4. Join the two tables on date and team
+5. Take the difference between the probabilites and sort the table by the differences to get the games where there is the largest discrepency
 
+The final output is the current day's games, sorted by the difference in win probabilities between fivethirtyeight and ESPN 
+
+<img width="791" alt="Screen Shot 2019-07-19 at 9 34 04 PM" src="https://user-images.githubusercontent.com/38504767/61572506-f7143f80-aa6c-11e9-8e3f-6f7ff96e2b15.png">
