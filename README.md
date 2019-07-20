@@ -20,6 +20,6 @@ On Nate Silver's website, fivethirtyeight.com, they post every MLB game of the s
 <img width="807" alt="Screen Shot 2019-07-19 at 9 15 07 PM" src="https://user-images.githubusercontent.com/38504767/61572360-50c73a80-aa6a-11e9-8f02-27202fa8abe8.png">
 
 
-If you convert the money lines on ESPN to probabilites of winning, you have a direct comparison to fivethirtyeight's probabilities of winning the game. 
+If you convert the money lines on ESPN to probabilites of winning, you have a direct comparison to fivethirtyeight's probabilities of winning the game. If the people of fivethirtyeight are smarter than the bookies, then a betting strategy would be to compare the fivethirtyeight probabilites vs. the implied gambiling probabilities and bet on th games where there is the largest discrepency. 
 
 
