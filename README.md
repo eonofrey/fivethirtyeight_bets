@@ -7,11 +7,19 @@ There are Vegas money lines for every MLB game of the season (below). For these 
 
 You can back into an implied probability of winning with these money lines. For example, a money line of +100 means you bet 100 to win 100, so the probability of that team winning is 50%. 
 
+The general formula for converting a money line to an implied probability is as follows: 
+
+<img width="558" alt="Screen Shot 2019-07-19 at 9 26 42 PM" src="https://user-images.githubusercontent.com/38504767/61572454-f202c080-aa6b-11e9-8025-cb362c04f10f.png">
+
+ESPN publishes MLB games along with the various money lines from different places where you can gamble on the games. 
+
 <img width="913" alt="Screen Shot 2019-07-19 at 9 15 54 PM" src="https://user-images.githubusercontent.com/38504767/61572382-8e2bc800-aa6a-11e9-89ac-03f7a9bde6d2.png">
 
 On Nate Silver's website, fivethirtyeight.com, they post every MLB game of the season along with a "Chances of Winning" column (below)
 
 <img width="807" alt="Screen Shot 2019-07-19 at 9 15 07 PM" src="https://user-images.githubusercontent.com/38504767/61572360-50c73a80-aa6a-11e9-8f02-27202fa8abe8.png">
 
+
+If you convert the money lines on ESPN to probabilites of winning, you have a direct comparison to fivethirtyeight's probabilities of winning the game. 
 
 
