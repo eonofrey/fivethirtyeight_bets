@@ -31,4 +31,5 @@ This script does the following:
 
 The final output is the current day's games, sorted by the difference in win probabilities between fivethirtyeight and ESPN 
 
-<img width="791" alt="Screen Shot 2019-07-19 at 9 34 04 PM" src="https://user-images.githubusercontent.com/38504767/61572506-f7143f80-aa6c-11e9-8e3f-6f7ff96e2b15.png">
+<img width="824" alt="Screen Shot 2019-07-21 at 9 57 37 AM" src="https://user-images.githubusercontent.com/38504767/61592204-0646da80-ab9e-11e9-8fc0-3382ae9e31d6.png">
+
