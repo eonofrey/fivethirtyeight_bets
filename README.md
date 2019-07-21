@@ -29,7 +29,7 @@ This script does the following:
 4. Join the two tables on date and team
 5. Take the difference between the probabilites and sort the table by the differences to get the games where there is the largest discrepency
 
-The final output is the current day's games, sorted by the difference in win probabilities between fivethirtyeight and ESPN 
+The final output is the current day's games, sorted by the difference in win probabilities between fivethirtyeight and ESPN. In the run I did on 7/21, the strategy would say to bet on the Mariners since fivethirtyeight has them at a 48% chance to win while Vegas is pricing the bets to imply only a 38% chance to win. 
 
 <img width="824" alt="Screen Shot 2019-07-21 at 9 57 37 AM" src="https://user-images.githubusercontent.com/38504767/61592204-0646da80-ab9e-11e9-8fc0-3382ae9e31d6.png">
 
